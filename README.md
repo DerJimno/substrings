@@ -1,2 +1,2 @@
 # substrings
-A method that returns string duplicates number
+A method that returns a string sub-string's number from an array

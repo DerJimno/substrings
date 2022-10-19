@@ -1,4 +1,4 @@
-dictionary = ["low", "riv", "man", "below", "w", "the", "low", "cool"]
+dictionary = ["low", "riv", "man", "below", "w", "the", "Ton", "cool"]
 
 def substring(string, possible_substrings)
 
@@ -11,4 +11,4 @@ def substring(string, possible_substrings)
         end
     end
 end
-substring("Below, The river!", dictionary)
+puts substring("Below, The river!", dictionary)
